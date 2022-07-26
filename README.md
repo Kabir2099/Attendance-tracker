@@ -26,3 +26,34 @@ Numpy- it will find the minimum face distance index.
 Deepface - emotion and gender recogniton.
 
 Streamlit- using streamlit I have made the Web browser.
+
+# REQUIREMENTS / INSTALLATIONS FOR THE PROJECT
+
+1> Install latest version python
+
+2> pip package :pip install pip
+
+3> OpenCv:pip install opencv-python
+
+4> numpy :pip install numpy
+
+5> for face_recognition module :
+
+     <> download : visual studio c++
+     
+     <> download : cmake++
+     
+     <> clone: https://github.com/ageitgey/face_recognition.git
+     
+     <> After clone Run command : python setup.py install
+6> deepface: pip install deepface
+
+7> streamlit :pip install streamlit
+
+8>streamlit_option_menu : pip install streamlit-option-menu
+
+9> pandas: pip install pandas
+
+# WEBSITE DEMO
+
+![image](https://user-images.githubusercontent.com/73129590/181008442-6f9c8f82-7ec0-4af4-8595-166562890799.png)
